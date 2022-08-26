@@ -1,3 +1,4 @@
+package trabajospracticos;
 public class DeclarandoVariablesTP04 {
     public static void main(String[] args) {
         String nombre = "Alan";
