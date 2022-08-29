@@ -1,4 +1,4 @@
-package trabajospracticos;
+package TP06;
 import java.util.Scanner;
 
 public class UsandolaAPIconMathTP06 {

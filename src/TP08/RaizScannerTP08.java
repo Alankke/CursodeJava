@@ -1,4 +1,4 @@
-package trabajospracticos;
+package TP08;
 import java.util.Scanner;
 
 public class RaizScannerTP08 {

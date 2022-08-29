@@ -1,4 +1,4 @@
-package trabajospracticos;
+package TP09;
 import java.util.Scanner;
 
 public class CalcularelpesoTP09 {

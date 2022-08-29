@@ -1,4 +1,4 @@
-package trabajospracticos;
+package TP10;
 import java.util.Scanner;
 public class AdivinandoelNumeroTP10 {
     public static void main(String[] args) {
