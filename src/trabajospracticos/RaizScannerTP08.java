@@ -1,7 +1,7 @@
 package trabajospracticos;
 import java.util.Scanner;
 
-public class RaizScanner {
+public class RaizScannerTP08 {
     public static void main(String[] args) {
         int nroIngresado;
         double resul;
