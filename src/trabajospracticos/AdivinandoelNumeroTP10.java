@@ -1,6 +1,6 @@
 package trabajospracticos;
 import java.util.Scanner;
-public class AdivinandoelPesoTP10 {
+public class AdivinandoelNumeroTP10 {
     public static void main(String[] args) {
         int aleatorio = (int) (Math.random() * 100 +1);
         Scanner leer = new Scanner(System.in);
