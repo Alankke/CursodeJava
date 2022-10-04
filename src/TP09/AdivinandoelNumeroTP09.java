@@ -1,6 +1,6 @@
-package TP10;
+package TP09;
 import java.util.Scanner;
-public class AdivinandoelNumeroTP10 {
+public class AdivinandoelNumeroTP09 {
     public static void main(String[] args) {
         int aleatorio = (int) (Math.random() * 100 +1);
         Scanner leer = new Scanner(System.in);

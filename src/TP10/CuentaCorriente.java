@@ -1,4 +1,4 @@
-package TP11;
+package TP10;
 
 public class CuentaCorriente {
     private String nombreTitular;

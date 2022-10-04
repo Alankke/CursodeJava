@@ -1,4 +1,4 @@
-package TP11;
+package TP10;
 
 public class UsoCuenta {
     public static void main(String[] args) {

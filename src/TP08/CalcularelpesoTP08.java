@@ -1,7 +1,7 @@
-package TP09;
+package TP08;
 import java.util.Scanner;
 
-public class CalcularelpesoTP09 {
+public class CalcularelpesoTP08 {
     public static void main(String[] args) {
         int cm;
         String hombre, mujer, genero;

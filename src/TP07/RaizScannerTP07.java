@@ -1,7 +1,7 @@
-package TP08;
+package TP07;
 import java.util.Scanner;
 
-public class RaizScannerTP08 {
+public class RaizScannerTP07 {
     public static void main(String[] args) {
         int nroIngresado;
         double resul;
